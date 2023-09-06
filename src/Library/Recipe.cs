@@ -50,6 +50,6 @@ namespace Full_GRASP_And_SOLID.Library
         
     }
 }
-/*para asignar esta responsabilidad, utilizamos el principio srp, ya que esta clase "receta" es la encargada
+/*para asignar esta responsabilidad, utilizamos el patrón Expert, ya que esta clase "receta" es la encargada
 tanto de tener la responsabilidad de decir las cantidades de materiales y procedimiento como también la responsabilidad
 de decir el costo total de la receta.*/
